@@ -1,4 +1,4 @@
-# snake-game
+# Snake-game
 Demo on Python - Snake game (nostalgia)
 
 # How to Start game

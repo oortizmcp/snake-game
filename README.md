@@ -10,3 +10,5 @@ Demo on Python - Snake game (nostalgia)
 2. Avoid collision with snake body.
 3. Avoid collision with walls.
 
+![image](https://user-images.githubusercontent.com/53305878/181061984-147ac9f2-adec-478c-a9c0-af12996398ec.png)
+
